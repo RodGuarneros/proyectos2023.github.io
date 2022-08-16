@@ -1,0 +1,119 @@
+
+
+.jumbotron {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  background-color: darkblue ;
+}
+@media (min-width: 900px) {
+  .jumbotron {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron h1 {
+  font-size: 35px;
+  color: rgb(252, 176, 34);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+.jumbotron .container {
+  max-width: 50rem;
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+  font-size: 15px;
+}
+
+.leadtext-muted{
+  color: gainsboro ;
+  text-emphasis-style: initial;
+  font-style: italic;
+  font-size: 23px;
+}
+
+strong{
+  color: gainsboro;
+}
+
+svg{
+  color: gainsboro;
+}
+
+.bottoncito{
+  color: aliceblue;
+  font-style: unset;
+}
+
+.body{
+  background-color: rgb(182, 182, 182);
+}
+
+.texhome{
+  text-align-last: left;
+  color: white;
+  text-justify: inter-word;
+}
+
+.text-author{
+  text-align-last: left;  
+}
+
+.img-responsive{
+  box-shadow: 10px 10px 5px black;
+  
+}
+
+p{
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 50px;
+  color: rgb(46, 53, 155);
+  text-align: center;
+}
+
+#image1{
+  border: 3px solid orange;
+  padding: 0;
+}
+
+.conclusion{
+  color: rgba(2, 155, 15, 0.945);
+  font-size:x-large;
+  font-style: normal;
+}
+
+#imgprincipal{
+  margin-bottom: 20px;
+  box-shadow: 10px 10px 5px rgb(83, 83, 83);
+}
+
+.data{
+  margin: 90px;
+}
+
+#welcome{
+  font-size: 30px;
+}
+
+.ul{
+  font-size: x-large;
+}
+
+.btn-success{
+  background-color: rgb(197, 79, 37);
+}
